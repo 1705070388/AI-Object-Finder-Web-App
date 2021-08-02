@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    background-color: cyan;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start, #noOfObjects{
+    font-size: 18px;
+} 
+canvas{
+    border: 2px dashed blue;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 15px red;
+}
